@@ -104,8 +104,8 @@ function App() {
           <form className="app__signup">
             <center>
               <img
-                className="app_headerImage"
-                src="/Instagram-Logo.png"
+                className="app__headerImage"
+                src="/instagram-logo.png"
                 alt=""
               />
             </center>
@@ -141,8 +141,8 @@ function App() {
           <form className="app__signup">
             <center>
               <img
-                className="app_headerImage"
-                src="public/Instagram-Logo.png"
+                className="app__headerImage"
+                src="/instagram-logo.png"
                 alt=""
               />
             </center>
@@ -167,7 +167,7 @@ function App() {
 
       <div className="app__header">
         <img
-          className="app_headerImage"
+          className="app__headerImage"
           src="/instagram-logo.png"
           alt=""
         />
