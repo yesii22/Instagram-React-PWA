@@ -105,7 +105,7 @@ function App() {
             <center>
               <img
                 className="app_headerImage"
-                src="/instagram-logo.png"
+                src="/Instagram-Logo.png"
                 alt=""
               />
             </center>
@@ -142,7 +142,7 @@ function App() {
             <center>
               <img
                 className="app_headerImage"
-                src="/instagram-logo.png"
+                src="public/Instagram-Logo.png"
                 alt=""
               />
             </center>
