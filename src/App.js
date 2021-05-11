@@ -9,8 +9,8 @@ import ImageUpload from './ImageUpload';
 import InstagramEmbed from 'react-instagram-embed';
 
 function getModalStyle() {
-  const top = 50;
-  const left = 50;
+  const top = 0;
+  const left = 0;
 
   return {
     top: `${top}%`,
