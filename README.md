@@ -1,6 +1,5 @@
-NOTE: In order to run this project in the Visual Studio Code IDE, 
-certain dependencies need to be installed prior to running this app
-in a local host to view in the browser. 
+NOTE: In order to run this project, certain dependencies need to be installed prior 
+to running this app in a local host to view in the browser. 
 
 In the project directory, run the following terminal commands in VS Code:
 
